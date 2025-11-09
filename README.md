@@ -29,18 +29,6 @@ This project demonstrates practical use of **C++17’s filesystem library** and 
 
 ---
 
-## 🏗️ Project Structure
-```
-FileExplorer/
-│
-├── main.cpp          # Main source code
-├── Makefile          # To compile and run the project easily
-├── README.md         # Project documentation
-└── screenshots/      # (Optional) Output screenshots for report
-```
-
----
-
 ## 💻 Setup Instructions
 
 ### Step 1: Install the compiler
