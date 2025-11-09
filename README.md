@@ -127,21 +127,8 @@ $ rm notes.txt
 
 ---
 
-## 🧑‍💻 Author
-**Baishali Behera**  
-B.Tech in Computer Science (2022–2026)  
-Siksha ‘O’ Anusandhan University  
 
 ---
-
-## 🖼️ Screenshots
-Include screenshots of:
-- Running the application  
-- Listing directories (`ls`)  
-- Creating and deleting files  
-- Using `chmod` or `search`  
-
-Save them in the `/screenshots` folder.
 
 ---
 
